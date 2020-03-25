@@ -1,2 +1,2 @@
 # VNIS
-VNIS
+Visualization of coronavirus data.
