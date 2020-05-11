@@ -1,1 +1,3 @@
-   # Visualization of coronavirus data on Python (using *plotly* library).
+   # Visualization of coronavirus data
+   Презентация на тему "Визуализация данных на Python".
+В качестве выбраны данные о коронавирусе в формате .csv, актуальные на 18.03.2020
